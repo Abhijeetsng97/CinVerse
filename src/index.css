@@ -1,45 +1,59 @@
-*{
-  box-sizing:border-box;
-  padding:0;
-  margin:0;
-}
-
-body{
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 50px;
-}
-
-h2{
-  font-family:monospace;
-  font-size: 30px;
-  
-  
-}
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import "tailwindcss";
 
 
-.CardContainer{
-  display:flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 50px;
-  padding: 50px;
-  margin: 50px;
-  max-width: 100%;
+@theme {
+  --font-sans: "Archivo Black", "DM Sans", sans-serif;
+  --font-display: "DM Sans", sans-serif;
+  --color-bg-dark: #0b0f19;
+  --color-surface-dark: #161c2a;
+  --color-accent-cool: #38bdf8;
+  --color-accent-purple: #a855f7;
 }
 
-.card{
-  color: #ffffff;
-  background-color: #e438b9;
-  border: 2px solid #e438b9;
-  border-radius: 10px;
-  padding: 10px;
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: var(--color-bg-dark);
+  }
+
+  body {
+    background-color: var(--color-bg-dark);
+    color: #f3f4f6; 
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
+  }
+
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    letter-spacing: 0.001em;
+    color: #ffffff;
+    font-weight: 450;
+  }
+
+
+  ::selection {
+    background-color: rgba(56, 189, 248, 0.2);
+    color: var(--color-accent-cool);
+  }
 }
 
-.button{
-  font-size: 19px;
-  background-color: #e438b9;
-  cursor:pointer;
-  padding: 10px;
-  color: #ffffff;
-  border-radius: 5px;
+
+@utility text-gradient {
+  background: linear-gradient(135deg, var(--color-accent-cool), var(--color-accent-purple));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
+
+@utility fancy-text {
+  font-family: var(--font-display);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
