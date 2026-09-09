@@ -29,7 +29,6 @@ const App = () => {
     seterrorMessage(null);
 
     try {
-      // Use search endpoint if query exists, otherwise fallback to discover
       const endpoint = query
         ? `${API_BASE_URL}/search/movie?query=${encodeURIComponent(query)}`
         : `${API_BASE_URL}/discover/movie?sort_by=popularity.desc`;
