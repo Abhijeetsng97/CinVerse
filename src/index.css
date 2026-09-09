@@ -5,8 +5,8 @@
 
 
 @theme {
-  --font-sans: "Archivo Black", "DM Sans", sans-serif;
-  --font-display: "DM Sans", sans-serif;
+  --font-display: "Archivo Black", "DM Sans", sans-serif;
+  --font-sans: "DM Sans", sans-serif;
   --color-bg-dark: #0b0f19;
   --color-surface-dark: #161c2a;
   --color-accent-cool: #38bdf8;
@@ -30,11 +30,18 @@
   }
 
 
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2 {
     font-family: var(--font-display);
     letter-spacing: 0.001em;
     color: #ffffff;
     font-weight: 450;
+  }
+
+   h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    letter-spacing: 0.001em;
+    color: #ffffff;
+    font-weight: 150;
   }
 
 
