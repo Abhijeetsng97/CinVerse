@@ -61,13 +61,11 @@ Follow these simple steps to set up and run the project locally:
 
 
 ## Outro
-
-Made by - Aaradhya Singh
-Project Link: [GitHub](https://github.com/yyun67/CinVerse)
+- Made by - Aaradhya Singh
+- Project Link: [GitHub](https://github.com/yyun67/CinVerse)
 
 
 
 ### Acknowledgments
-
 - Data provided courtesy of [The Movie Database (TMDb)](https://themoviedb.org).
 - Made this project with the help of this youtube guy [JavaScript Mastery YT](https://youtu.be/dCLhUialKPQ)
