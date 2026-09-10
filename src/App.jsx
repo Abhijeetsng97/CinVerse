@@ -51,7 +51,7 @@ const App = () => {
 
     } catch (error) {
       console.error('Error fetching movies:', error);
-      seterrorMessage('Failed to fetch movies. Please check your API Key in .env file.');
+      seterrorMessage('Failed to fetch movies.');
     } finally {
       setIsLoading(false);
     }
