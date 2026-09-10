@@ -4,7 +4,7 @@ A modern, responsive **Movie Database Web Application** that allows users to dis
 
 
 ## Demo Video
-Check out the live demo of application here: 
+Check out the live demo of application here: [See Demo Video](https://youtu.be/XuMFzwjMWZc)
 
 
 
