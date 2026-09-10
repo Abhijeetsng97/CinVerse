@@ -57,6 +57,9 @@ Follow these simple steps to set up and run the project locally:
 
 ## Screenshots
 
+![alt text](<Screenshot 2026-09-10 142832.png>) 
+![alt text](<Screenshot 2026-09-10 142744.png>) 
+![alt text](<Screenshot 2026-09-10 142757.png>))
 
 
 
