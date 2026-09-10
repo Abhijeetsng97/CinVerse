@@ -42,7 +42,7 @@ Follow these simple steps to set up and run the project locally:
 
          4. **Install Dependencies:**
                ```bash
-               npm i use
+               npm install
                ```
 
          5. **Run the local development server:**
@@ -55,7 +55,7 @@ Follow these simple steps to set up and run the project locally:
 
 
 ## Screenshots
-![alt text](cinverse_home.webp)
+![alt text](homescreen.webp)
 
 
 
@@ -65,6 +65,6 @@ Follow these simple steps to set up and run the project locally:
 
 
 
-### Acknowledgments
+## Acknowledgments
 - Data provided courtesy of [The Movie Database (TMDb)](https://themoviedb.org).
 - Made this project with the help of this youtube guy [JavaScript Mastery YT](https://youtu.be/dCLhUialKPQ)
