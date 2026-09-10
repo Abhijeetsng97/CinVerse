@@ -4,7 +4,7 @@ A modern, responsive **Movie Database Web Application** that allows users to dis
 
 
 ## Demo Video
-Check out the live application here: 
+Check out the live demo of application here: 
 
 
 
@@ -17,7 +17,6 @@ Check out the live application here:
 
 
 ## Tech Stack
-**Frontend:**
 - HTML & CSS 
 - JavaScript React.js 
 - Tailwind CSS 
@@ -56,10 +55,9 @@ Follow these simple steps to set up and run the project locally:
 
 
 ## Screenshots
-
-![alt text](<Screenshot 2026-09-10 142832.png>) 
+![alt text](<Screenshot 2026-09-10 175427.png>) 
 ![alt text](<Screenshot 2026-09-10 142744.png>) 
-![alt text](<Screenshot 2026-09-10 142757.png>))
+![alt text](<Screenshot 2026-09-10 175357.png>)
 
 
 
