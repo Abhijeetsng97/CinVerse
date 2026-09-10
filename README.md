@@ -21,10 +21,7 @@ Check out the live application here:
 - HTML & CSS 
 - JavaScript React.js 
 - Tailwind CSS 
-**API Integration:**
 - [The Movie Database (TMDb) API](https://themoviedb.org)
-**Deployment & Hosting:**
-- Vercel / Netlify / GitHub Pages
 
 
 
@@ -36,7 +33,6 @@ Follow these simple steps to set up and run the project locally:
                2. Navigate to your account settings to request an **API Key** for [TMDb](https://developer.themoviedb.org/reference/discover-movie)
 
          2. **Clone the repository**
-            
 
          3. **Configure Environment Variables:**
                Create a `.env` file in the root directory and add your API key:
@@ -60,48 +56,17 @@ Follow these simple steps to set up and run the project locally:
 
 ## Screenshots
 
-| Home Dashboard | Movie Detail View |
-|---|---|
-| ![Home](https://placeholder.com) | ![Detail](https://placeholder.com) |
 
----
 
-## 🗺️ Roadmap & Future Enhancements
 
-- [ ] Implement user authentication (Sign Up / Log In) for cloud-synced watchlists.
-- [ ] Add a "Recommendations Engine" based on users' liked genres.
-- [ ] Integrate user reviews and custom star ratings.
-- [ ] Support for TV Show seasons and episode tracking.
+## Outro
 
----
+Made by - Aaradhya Singh
+Project Link: [GitHub](https://github.com/yyun67/CinVerse)
 
-## 🤝 Contributing
 
-Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## ✉️ Contact
-
-Your Name - [@your_twitter](https://twitter.com) - email@example.com
-
-Project Link: [https://github.com](https://github.com)
-
----
-
-### 🙏 Acknowledgments
+### Acknowledgments
 
 - Data provided courtesy of [The Movie Database (TMDb)](https://themoviedb.org).
-- Icons by [FontAwesome](https://fontawesome.com) / [Lucide](https://lucide.dev).
+- Made this project with the help of this youtube guy [JavaScript Mastery YT](https://youtu.be/dCLhUialKPQ)
