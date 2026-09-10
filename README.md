@@ -27,30 +27,30 @@ Check out the live demo of application here: [See Demo Video](https://youtu.be/X
 ## To run this locally
 Follow these simple steps to set up and run the project locally:
 
-         1. **Prerequisites**
-               You will need an API key from your media provider. 
-               1. Sign up or log into [TMDb](https://themoviedb.org).
-               2. Navigate to your account settings to request an **API Key** for [TMDb](https://developer.themoviedb.org/reference/discover-movie)
+1. **Prerequisites**
+      You will need an API key from your media provider. 
+      1. Sign up or log into [TMDb](https://themoviedb.org).
+      2. Navigate to your account settings to request an **API Key** for [TMDb](https://developer.themoviedb.org/reference/discover-movie)
 
-         2. **Clone the repository**
+2. **Clone the repository**
 
-         3. **Configure Environment Variables:**
-               Create a `.env` file in the root directory and add your API key:
-               ```env
-               VITE_TMDB_API_KEY=your_api_key_here
-               ```
+3. **Configure Environment Variables:**
+      Create a `.env` file in the root directory and add your API key:
+      ```env
+      VITE_TMDB_API_KEY=your_api_key_here
+      ```
 
-         4. **Install Dependencies:**
-               ```bash
-               npm install
-               ```
+4. **Install Dependencies:**
+      ```bash
+      npm install
+      ```
 
-         5. **Run the local development server:**
-               ```bash
-               npm run dev
-               ```
+5. **Run the local development server:**
+      ```bash
+      npm run dev
+      ```
 
-         6. Open your browser and navigate to the local port provided in your terminal.
+6. Open your browser and navigate to the local port provided in your terminal.
 
 
 
