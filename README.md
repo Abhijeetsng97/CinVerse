@@ -55,7 +55,7 @@ Follow these simple steps to set up and run the project locally:
 
 
 ## Screenshots
-![alt text](homescreen.webp)
+![alt text](homescreen-1.webp)
 
 
 
