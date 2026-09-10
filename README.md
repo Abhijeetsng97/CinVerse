@@ -27,6 +27,7 @@ Check out the live application here:
 
 ## To run this locally
 Follow these simple steps to set up and run the project locally:
+
          1. **Prerequisites**
                You will need an API key from your media provider. 
                1. Sign up or log into [TMDb](https://themoviedb.org).
