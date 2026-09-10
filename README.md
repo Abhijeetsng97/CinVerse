@@ -55,10 +55,7 @@ Follow these simple steps to set up and run the project locally:
 
 
 ## Screenshots
-![alt text](<Screenshot 2026-09-10 175357.png>)
-![alt text](<Screenshot 2026-09-10 142757-1.png>)
-![alt text](<Screenshot 2026-09-10 175427.png>) 
-
+![alt text](cinverse_home.webp)
 
 
 
